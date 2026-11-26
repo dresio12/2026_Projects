@@ -2,3 +2,6 @@
 
 Mason Miller Pitch Tell Link:
 https://www.dropbox.com/scl/fo/he8uzl6rd7oj4w3k2znvh/AAFsOqdoyKlzThF_V4eXazE?rlkey=eua6clrxe6q0t3hxoefn6uj2w&st=m46htl79&dl=0
+
+Rule 5 Draft-Eligible Players Database:
+https://derkrez.shinyapps.io/Rule_5_Database_2026/
